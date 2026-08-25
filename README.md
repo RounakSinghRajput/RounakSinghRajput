@@ -28,10 +28,10 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rounak9852&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RounakSinghRajput&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounak9852&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakSinghRajput&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <!--
