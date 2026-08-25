@@ -3,7 +3,7 @@
 * 🔭 I’m currently focused on **AI Engineering, Computer Vision, and DevOps**
 * 🌱 I’m currently exploring **Generative AI workflows, advanced LLM tooling, and cloud automation**
 * 💬 Ask me about **Python, Machine Learning pipelines, Flask, and Docker**
-* 📫 How to reach me: Drop a message or connect via your preferred professional platform!
+* 📫 How to reach me: [GitHub Profile](https://github.com/RounakSinghRajput)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 🚀 Featured Projects
 
-* **[myntra_review_scrapper](https://github.com/rounak9852/myntra_review_scrapper):** A data collection tool developed for extracting and scraping customer reviews to support analysis pipelines.
+* **[myntra_review_scrapper](https://github.com/RounakSinghRajput/myntra_review_scrapper):** A data collection tool developed for extracting and scraping customer reviews to support analysis pipelines.
 * **AI & Computer Vision Initiatives:** Engineering solutions involving object detection, image segmentation, and deep learning diagnostics.
 
 ---
@@ -33,18 +33,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakSinghRajput&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-<!--
-**RounakSinghRajput/RounakSinghRajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
