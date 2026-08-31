@@ -17,12 +17,3 @@
 | **Tools & DevOps** | Git, Docker, VS Code, GitHub Actions, Ollama |
 
 ---
-
-### 🚀 Featured Projects
-
-* **[myntra_review_scrapper](https://github.com/RounakSinghRajput/myntra_review_scrapper):** A data collection tool developed for extracting and scraping customer reviews to support analysis pipelines.
-* **AI & Computer Vision Initiatives:** Engineering solutions involving object detection, image segmentation, and deep learning diagnostics.
-
----
-
-
